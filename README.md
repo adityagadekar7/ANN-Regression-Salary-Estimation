@@ -22,14 +22,6 @@ This project aims to estimate salaries based on various input features using an 
 - Scikit-learn
 - Streamlit (for web app)
 
-## Repository Structure
-
-```
-.
-├── model_training.py
-└── app_streamlit_regression.py
-```
-
 ## Installation
 
 1. Clone the repository:
@@ -54,9 +46,9 @@ This project aims to estimate salaries based on various input features using an 
 
 1. **Data Preprocessing and Model Training**:
    ```bash
-   python model_training.py
+   model_training.ipynb
    ```
-3. **Run the Streamlit App**:
+2. **Run the Streamlit App**:
    ```bash
    streamlit run app_streamlit_regression.py
    ```
