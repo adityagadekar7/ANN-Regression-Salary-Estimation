@@ -46,7 +46,7 @@ This project aims to estimate salaries based on various input features using an 
 
 1. **Data Preprocessing and Model Training**:
    ```bash
-   model_training.ipynb
+   regression.ipynb
    ```
 2. **Run the Streamlit App**:
    ```bash
